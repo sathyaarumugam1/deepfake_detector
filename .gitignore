@@ -1,0 +1,15 @@
+# Large files
+*.mp4
+*.avi
+*.mov
+*.h5
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temp
+*.log
+*.tmp
