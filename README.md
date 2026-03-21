@@ -54,7 +54,7 @@ Note: Model file too large for GitHub → use above link.
 
 Live App
 
-- Deployed on Streamlit: https://sathya-deepfake-ai.streamlit.app
+- Deployed on Streamlit 
 
 Requirements (Fixed Versions)
 
