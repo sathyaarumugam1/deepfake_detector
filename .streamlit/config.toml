@@ -1,0 +1,7 @@
+[server]
+headless = true
+port = $PORT
+enableCORS = false
+
+[general]
+email = "user@example.com"
