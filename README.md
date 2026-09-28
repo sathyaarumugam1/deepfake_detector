@@ -69,6 +69,22 @@ Requirements (Fixed Versions)
 - pillow==10.1.0
 - gdown==5.2.1
 
+
+Screenshots
+
+Home Screen
+![Home Screen](home.jpeg)
+
+Image Detection
+![Image Detection](image-detection.jpeg)
+
+Video Detection
+![Video Detection](video-detection.jpeg)
+
+Detection Result
+![Detection Result](result.jpeg)
+
+
 Author
 
  Sathya Arumugam
