@@ -27,14 +27,18 @@ Repository Files
 Installation
 
 1. Clone the repository:
-   git clone https://github.com/sathyaarumugam1/repo.git
-   cd repo
+   
+git clone https://github.com/sathyaarumugam1/deepfake_detector.git
+cd deepfake_detector
 
-2. Install required packages:
-   pip install -r requirements.txt
+2.Install required packages:
 
-3. Run the app:
-   streamlit run streamlit_app.py
+pip install -r requirements.txt
+
+3.Run the application:
+
+streamlit run streamlit_app.py
+
 
 Usage
 
